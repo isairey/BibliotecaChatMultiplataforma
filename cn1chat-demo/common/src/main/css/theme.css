@@ -1,0 +1,39 @@
+#Constants {
+    includeNativeBool: true; 
+}
+
+
+/* Application Styles*/
+
+LikeButton {
+    background-color:transparent;
+    cn1-background-type: none;
+    color: red;
+}
+
+
+ChatBubbleSpanLabelOther {
+    border-image: url(images/chat-bubble-left.png);
+    cn1-source-dpi: 480;
+    border-image-slice: 5% 1% 94% 5%;
+    padding-left:1mm;
+    padding-right:0;
+}
+
+ChatBubbleTextOther {
+    margin: 2mm;
+    color: black;
+}
+ChatBubbleSpanLabelOwn {
+
+    border-image: url(images/chat-bubble-right.png);
+    cn1-source-dpi: 480;
+    border-image-slice: 5% 5% 94% 1%;
+    padding-right: 1mm;
+    padding-left:0;
+}
+
+ChatBubbleTextOwn {
+    color: black;
+    margin:2mm;
+}
