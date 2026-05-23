@@ -222,7 +222,7 @@ Módulo de acciones personalizadas.
 # 📂 Estructura del proyecto
 
 ```bash
-RADChatApp/
+BibliotecaChatMultiplataforma/
 │
 ├── src/
 ├── images/
@@ -300,7 +300,7 @@ Usuario → Mensaje → UI Render → Animación → Reacción
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/shannah/RADChatApp.git
+git clone https://github.com/isairey/BibliotecaChatMultiplataforma.git
 ```
 
 ---
@@ -308,7 +308,7 @@ git clone https://github.com/shannah/RADChatApp.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd RADChatApp
+cd BibliotecaChatMultiplataforma
 ```
 
 ---
@@ -437,11 +437,11 @@ git push origin feature/nueva-funcionalidad
 
 ---
 
-# 👨‍💻 Créditos
+# 👨‍💻 Dessarrolador
 
 <div align="center">
 
-## Steve Hannah — Codename One Developer
+## Isai Reyes — Codename One Developer
 
 Proyecto desarrollado como demostración avanzada utilizando CodeRAD y Codename One 🚀
 
